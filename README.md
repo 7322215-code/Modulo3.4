@@ -33,16 +33,45 @@
 
 ---
 
-# 🎮 Mini Juego 💖
+## 🌈 Mis intereses
 
-## 🌸 Atrapa la estrella 🌸
+💃 Bailar  
+🍳 Cocinar  
+😴 Dormir  
+🎨 Diseños elegantes y colores pastel  
 
-```text
-⠀⠀⠀⠀⠀⠀⭐
-⬜⬜⬜⬜⬜
-⬜⬜🩷⬜⬜
-⬜⬜⬜⬜⬜
+---
 
-Misión:
-Mover el corazón hasta la estrella ✨
+## 📚 Actualmente aprendiendo
+
+✨ Desarrollo Web  
+✨ Bases de Datos  
+✨ Interfaces modernas  
+✨ Buenas prácticas de programación  
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=rose_pine&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=rose_pine&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌸 Frase favorita
+
+> “Los pequeños pasos de hoy construyen los grandes logros del mañana.” ✨
+
+---
+
+<div align="center">
+
+💖 Gracias por visitar mi perfil 💖
+
+</div>
 
