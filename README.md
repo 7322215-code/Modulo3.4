@@ -44,7 +44,7 @@ Descripción breve y clara.
 
 ## 📫 Contacto
 
-- 📧 Email: tuemail@example.com
+- 📧 Email: 7322215@clases.edu.sv
 - 💼 LinkedIn: https://linkedin.com/in/tuusuario
 - 🌐 Portafolio: https://tuweb.com
 
